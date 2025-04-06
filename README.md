@@ -11,9 +11,9 @@ Description: bootstrapping and aggregation of Gradient Forest models for each bi
 4. Combining results of GF models.R
 Description: summarising the bootstrapped Gradient Forest models for each biotic group. Given the size of the objects, bootstrapped models needed to be  saved in separate lists
 5. Classification.R
-Description: Classification of Gradient Forest models to different levels (5 – 150 in increments of 5) and exploration of classification strength across biotic groups.
+Description: Classification of Gradient Forest models to different levels (5 √ê 150 in increments of 5) and exploration of classification strength across biotic groups.
 6. Model uncertainty.R
 Description: Assessment of spatial uncertainty of Gradient Forest models: uncertainty in compositional turnover (Standard deviation of the mean compositional turnover) and coverage of samples of the environmental space.
 DATA:
 DF.source - data for demersal fish (for years 2070 - 2022)
-Pred_1km.CMB.source – environmental data used at a 1km grid resolution saved as a dataframe
+Pred_1km.CMB.source √ê environmental data used at a 1km grid resolution saved as a dataframe
