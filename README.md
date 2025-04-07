@@ -14,6 +14,9 @@ Description: summarising the bootstrapped Gradient Forest models for each biotic
 Description: Classification of Gradient Forest models to different levels (5 Ð 150 in increments of 5) and exploration of classification strength across biotic groups.
 6. Model uncertainty.R
 Description: Assessment of spatial uncertainty of Gradient Forest models: uncertainty in compositional turnover (Standard deviation of the mean compositional turnover) and coverage of samples of the environmental space.
+7. Summarise taxa and environmental values within groups.R
+DESCRIPTION: Summarise taxa (occurrence, richness, etc) and environmental values (min, mediam, max) within groups.
+
 DATA:
 DF.source - data for demersal fish (for years 2070 - 2022)
 Pred_1km.CMB.source Ð environmental data used at a 1km grid resolution saved as a dataframe
