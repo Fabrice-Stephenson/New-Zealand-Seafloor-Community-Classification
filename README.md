@@ -15,7 +15,7 @@ Description: Classification of Gradient Forest models to different levels (5 Ð 
 6. Model uncertainty.R
 Description: Assessment of spatial uncertainty of Gradient Forest models: uncertainty in compositional turnover (Standard deviation of the mean compositional turnover) and coverage of samples of the environmental space.
 7. Summarise taxa and environmental values within groups.R
-DESCRIPTION: Summarise taxa (occurrence, richness, etc) and environmental values (min, mediam, max) within groups.
+Description: Summarise taxa (occurrence, richness, etc) and environmental values (min, mediam, max) within groups.
 
 DATA:
 DF.source - data for demersal fish (for years 2070 - 2022)
